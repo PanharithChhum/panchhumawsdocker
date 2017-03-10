@@ -1,0 +1,14 @@
+{
+  "name": "docker_homework",
+  "version": "1.0.0",
+  "description": "simple Node.js on Docker",
+  "author": "Pan Chhum <Panharith.Chhum@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "./cleanregions.sh"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.24.0",
+    "express": "^4.13.3"
+  }
+}
